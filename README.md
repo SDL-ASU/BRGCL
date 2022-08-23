@@ -2,7 +2,7 @@
 
 ### BRGCL Code
 
-Sample Code for Bayesian Robust Graph Contrastive Learning
+Code for Bayesian Robust Graph Contrastive Learning
 
 ### Abstract 
 
